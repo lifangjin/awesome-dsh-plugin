@@ -1,0 +1,6 @@
+url: https://github.com/lifangjin/dsh-maoying
+name: lifangjin/dsh-maoying
+category: workflow
+description:
+  en: 'Web-novel writing assistant: the main agent becomes an editor-in-chief running a seven-phase workflow with a six-step writing method, delegating outlining, drafting, review, lore-keeping and research to five helpers that each carry only their own tools; the whole novel is a grep-friendly novel/ directory of structured YAML/markdown (character cards, a foreshadowing state machine, timeline, narrative memory) — no database, no API layer — with a full-page creator panel and six zero-dependency CLI commands.'
+  zh: '网文创作辅助插件：主 agent 化身网文主编，以七阶段工作流与六步写作法把大纲、正文、审校、设定、考据委派给五个只带本行工具的帮手；整部小说就是 grep 友好的 novel/ 结构化 YAML/markdown 目录（角色卡、伏笔状态机、时间线、叙事记忆），零数据库零 API 层，附全页创作台面板与六条零依赖 CLI 命令。'
